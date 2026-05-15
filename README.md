@@ -7,7 +7,7 @@ A aplicação apresenta diferentes personagens fictícios com imagens, descriç�
 ## 💜 Projeto Online
 
 🔗 Acesse o projeto online:
-👉 [**[https://seu-projeto.vercel.app](https://seu-projeto.vercel.app)**](https://projeto-dragon-ball-three.vercel.app/)
+👉 (https://projeto-dragon-ball-three.vercel.app/)
 
 
 ---
