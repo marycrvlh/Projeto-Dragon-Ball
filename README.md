@@ -4,10 +4,6 @@ Projeto desenvolvido durante as aulas do Curso Técnico de Desenvolvimento de Si
 
 A aplicação apresenta diferentes personagens fictícios com imagens, descrições e sistema de seleção dinâmica utilizando HTML, CSS e JavaScript.
 
-## 💜 Projeto Online
-
-🔗 Acesse o projeto online:
-👉  [projeto-dragon-ball.vercel.app](https://projeto-dragon-ball-three.vercel.app/)
 
 
 ---
@@ -45,3 +41,10 @@ Este projeto foi criado para praticar:
 ## 👨‍💻 Desenvolvido por
 
 Mariane Carvalho Dearo - Aluna do Curso Técnico de Desenvolvimento de Sistemas — Jorge Coury.
+
+---
+
+## 🔗 Projeto Online
+
+Acesse o projeto clicando no link abaixo:
+👉  [projeto-dragon-ball.vercel.app](https://projeto-dragon-ball-three.vercel.app/)
